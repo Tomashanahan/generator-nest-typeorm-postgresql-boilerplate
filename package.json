@@ -1,0 +1,18 @@
+{
+	"name": "generator-nest-typeorm-postgresql-boilerplate",
+	"version": "1.0.0",
+	"description": "Generates a scaffolding for a backend project with nestjs, postgresql and typeorm",
+	"main": "index.js",
+	"dependencies": {
+		"yeoman-generator": "^5.4.0"
+	},
+	"keywords": [
+		"yeoman-generator"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Tomashanahan/generator-nest-typeorm-postgresql-boilerplate.git"
+	},
+	"author": "Tomashanahan",
+	"license": "ISC"
+}
